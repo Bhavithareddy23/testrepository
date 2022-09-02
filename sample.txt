@@ -1,1 +1,2 @@
 welcme to devops in git
+welcome to devops class
